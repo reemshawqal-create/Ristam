@@ -1,0 +1,6 @@
+{
+  "name": "Ristam",
+  "description": "منصة مشاركة صور وفيديوهات بتصميم داكن سلس دون إعلانات أو ذكاء اصطناعي، مع قصص ورسائل مباشرة وأدوات تعديل وتنظيم يدوية وتشفير محلي ومزامنة سحابية اختيارية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ristam</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_explore">استكشاف</string>
+    <string name="nav_create">إنشاء</string>
+    <string name="nav_reels">المقاطع</string>
+    <string name="nav_profile">حسابي</string>
+    <string name="offline_badge">وضع عدم الاتصال الدائم</string>
+    <string name="no_ads_badge">خالي من الإعلانات والذكاء الاصطناعي</string>
+    <string name="encrypted_badge">مشفر محلياً AES-256</string>
+</resources>
